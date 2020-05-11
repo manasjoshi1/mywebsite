@@ -1,0 +1,71 @@
+body{
+  margin:0;
+  text-align: center;
+  font-size: 20px;
+}
+.top-container{
+  text-align: center;
+  background-color: #212121;
+  color:#14ffec;
+  padding-top: 100px;
+  position: relative;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  right: 300px;
+  margin-top: 50px;
+  position: absolute;
+}
+h1{
+  width: %;
+    margin: 50px auto 0 auto;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 562%;
+  color: #14ffec
+}
+h2{
+  font-size: 1.5rem;
+  color:#14ffec;
+  line-height: 5;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.contact{
+  width: 100px;
+  height:  100px;
+  border-radius: 50px;
+  background-size: cover;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  filter: brightness(50%);
+}
+
+.contact:hover{
+  width: 100px;
+  height:  100px;
+  border-radius: 50px;
+  background-size: cover;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  filter: brightness(100%);
+}
+#212121
+#323232
+#0d7377
+#14ffec
